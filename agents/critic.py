@@ -16,6 +16,7 @@ class Critic:
         ======
             state_size (int): Dimension of each state
             action_size (int): Dimension of each action
+            lr (float): Adam optimizer learning rate
         """
         self.state_size = state_size
         self.action_size = action_size        
