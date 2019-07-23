@@ -1,7 +1,7 @@
 import numpy as np
 
 class GaussianNoise():
-    """Ornstein-Uhlenbeck process."""
+    """Gaussian Distributed Noise"""
 
     def __init__(self, action_size):
         self.action_size = action_size
