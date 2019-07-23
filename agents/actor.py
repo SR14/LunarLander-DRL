@@ -16,8 +16,7 @@ class Actor:
         ======
             state_size (int): Dimension of each state
             action_size (int): Dimension of each action
-            action_low (array): Min value of each action dimension
-            action_high (array): Max value of each action dimension
+            lr (float): Adam optimizer learning rate
         """
         self.state_size = state_size
         self.action_size = action_size
