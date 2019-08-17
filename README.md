@@ -1,4 +1,4 @@
-# LunarLander-RL
+# Lunar Lander - Deep Reinforcement Learning
 
 Solved OpenAI's Continuous Lunar Lander with a an average reward of 200+ over the last 100 episodes at episode 493. 
 
