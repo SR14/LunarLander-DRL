@@ -1,6 +1,6 @@
 # Lunar Lander - Deep Reinforcement Learning
 
->**Project Project Report can be found in *LunarLanderReport.pdf* file.**
+Project Project Report can be found in **LunarLanderReport.pdf** file.
 Solved OpenAI's Continuous Lunar Lander with a an average reward of 200+ over the last 100 episodes at episode 493. 
 
 The agent folder contains all the python scripts that are called by the jupyter notebook file.  
