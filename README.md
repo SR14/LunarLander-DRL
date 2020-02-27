@@ -3,7 +3,7 @@ Solved OpenAI's Continuous Lunar Lander with a an average reward of 200+ over th
 
 ## Getting Started
 
-1. The **Final Report** detailing every single step of the project can be found in the ['LunarLanderReport.pdf'](https://github.com/SR14/LunarLander-DeepRL/blob/master/LunarLanderReport.pdf) repository file. 
+1. **Final Report** detailing every single step of the project can be found in the ['LunarLanderReport.pdf'](https://github.com/SR14/LunarLander-DeepRL/blob/master/LunarLanderReport.pdf) repository file. 
 
 2. The project's proposal can be found [here](https://github.com/SR14/LunarLander-DeepRL/blob/master/Project%20proposal.pdf).
 
