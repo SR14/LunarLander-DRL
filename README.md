@@ -1,13 +1,12 @@
 # Lunar Lander - Deep Reinforcement Learning
+Solved OpenAI's Continuous Lunar Lander with a an average reward of 200+ over the last 100 episodes at episode 493. Other Data Science & Machine Learning projects can be found at the [main GitHub repo](https://github.com/SR14).
 
-Project Project Report can be found in **LunarLanderReport.pdf** file.
-Solved OpenAI's Continuous Lunar Lander with a an average reward of 200+ over the last 100 episodes at episode 493. 
+## Getting Started
 
-The agent folder contains all the python scripts that are called by the jupyter notebook file.  
-Included in the agent folder is memory.py, the PER buffer; noise.py, Gaussian noise; actor.py, actor network architecture; critic.py, critic network architecture; agent.py, DDPG algorithm with third critic and noise addition to target action.
-
-OpenAI's "LunarLanderContinuous-v2" environment implementation in task.py
-
-Test episode's data can be found in data.txt, and the test episode gif can be found in LunarLander.gif
+1. Final Report is being kept [here](https://github.com/SR14/LunarLander-DeepRL/blob/master/LunarLanderReport.pdf).
+2. Learning agent scripts and corresponding code are being kept [here](https://github.com/SR14/LunarLander-DeepRL/tree/master/agents). More specifically, the corresponding components of the algorithm are memory.py for the PER buffer; noise.py for Gaussian noise added to the learning stage; actor.py holds the actor network architecture; critic.py holds critic network architecture; and the agent.py holds the compiled DDPG algorithm with a third critic and noise addition to target action.
+3. The environment is created in this [Python script](https://github.com/SR14/LunarLander-DeepRL/blob/master/task.py) and uses OpenAI's "LunarLanderContinuous-v2" environment. 
+4. The Jupyter Notebook used to compile the Python scripts can be found [here](https://github.com/SR14/LunarLander-DeepRL/blob/master/LunarLanderContinuous-v2.ipynb)
+5. Test episode's data can be found in the [data.txt](https://github.com/SR14/LunarLander-DeepRL/blob/master/data.txt) file, and the test episode gif can be found in LunarLander.gif
 
 Looking for feedback on how the model could be improved! (:
