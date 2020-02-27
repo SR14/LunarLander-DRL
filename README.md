@@ -3,7 +3,7 @@ Solved OpenAI's ["LunarLanderContinuous-v2"](https://gym.openai.com/envs/LunarLa
 
 ![GIF](https://github.com/SR14/LunarLander-DeepRL/blob/master/LunarLander.gif)
 
-## Getting Started
+## Project Files
 
 1. The **[Final Report](https://github.com/SR14/LunarLander-DeepRL/blob/master/LunarLanderReport.pdf)** detailing every single step of the project can be found in the 'LunarLanderReport.pdf' repository file. 
 
