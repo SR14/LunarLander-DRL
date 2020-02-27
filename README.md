@@ -20,5 +20,5 @@ Solved OpenAI's Continuous Lunar Lander with a an average reward of 200+ over th
 
 Looking for feedback on how the model could be improved! (:
 
->Other Data Science & Machine Learning projects can be found at the [main GitHub repo](https://github.com/SR14).
+>Other Data Science & Machine Learning projects can be found on the [main GitHub repo](https://github.com/SR14). Thank you!
 
