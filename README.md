@@ -22,3 +22,4 @@ Looking for feedback on how the model could be improved! (:
 
 >Other Data Science & Machine Learning projects can be found on the [main GitHub repo](https://github.com/SR14). Thank you!
 
+![GIF](https://github.com/SR14/LunarLander-DeepRL/blob/master/LunarLander.gif)
