@@ -7,7 +7,7 @@ Solved OpenAI's Continuous Lunar Lander with a an average reward of 200+ over th
 
 2. The project's proposal can be found [here](https://github.com/SR14/LunarLander-DeepRL/blob/master/Project%20proposal.pdf).
 
-3. All algorithmic components and their code can be found [here](https://github.com/SR14/LunarLander-DeepRL/tree/master/agents). *(More specifically, the corresponding components of the algorithm are memory.py for the Prioritized Experience Replay, or PER, buffer; noise.py for Gaussian noise added to the learning stage; actor.py holds the actor network architecture; critic.py holds critic network architecture; and the agent.py holds the compiled DDPG algorithm with a third critic and noise addition to target action.)*
+3. All algorithmic components and their code can be found [here](https://github.com/SR14/LunarLander-DeepRL/tree/master/agents). *(More specifically, the corresponding components of the algorithm are memory.py for the Prioritized Experience Replay, or PER, buffer; noise.py for Gaussian noise added to the learning stage; actor.py holds the actor network architecture; critic.py holds critic network architecture; and the agent.py holds the compiled DDPG algorithm with a third critic and added target action noise.)*
 
 
 4. OpenAI's "LunarLanderContinuous-v2" environment implementation can be seen in this [Python script](https://github.com/SR14/LunarLander-DeepRL/blob/master/task.py). 
