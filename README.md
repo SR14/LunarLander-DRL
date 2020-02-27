@@ -1,5 +1,5 @@
 # Lunar Lander - Deep Reinforcement Learning
-Solved OpenAI's ["LunarLanderContinuous-v2"](https://gym.openai.com/envs/LunarLanderContinuous-v2/) environment in less than 500 training episodes; this is a [top 5 leaderboard performance](https://github.com/openai/gym/wiki/Leaderboard#lunarlandercontinuous-v2). 
+Solved OpenAI's ["LunarLanderContinuous-v2"](https://gym.openai.com/envs/LunarLanderContinuous-v2/) environment in less than 500 training episodes; this is a top 5 [leaderboard](https://github.com/openai/gym/wiki/Leaderboard#lunarlandercontinuous-v2) performance. 
 
 ![GIF](https://github.com/SR14/LunarLander-DeepRL/blob/master/LunarLander.gif)
 
