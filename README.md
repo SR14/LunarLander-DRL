@@ -1,5 +1,5 @@
 # Lunar Lander - Deep Reinforcement Learning
-Solved OpenAI's Continuous Lunar Lander with a an average reward of 200+ over the last 100 episodes at episode 493. Other Data Science & Machine Learning projects can be found at the [main GitHub repo](https://github.com/SR14).
+Solved OpenAI's Continuous Lunar Lander with a an average reward of 200+ over the last 100 episodes at episode 493. 
 
 ## Getting Started
 
@@ -18,3 +18,6 @@ Solved OpenAI's Continuous Lunar Lander with a an average reward of 200+ over th
 5. Test episode's data can be found in the [data.txt](https://github.com/SR14/LunarLander-DeepRL/blob/master/data.txt) file, and the test episode gif can be found in LunarLander.gif
 
 Looking for feedback on how the model could be improved! (:
+
+>Other Data Science & Machine Learning projects can be found at the [main GitHub repo](https://github.com/SR14).
+
