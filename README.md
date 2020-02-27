@@ -1,5 +1,5 @@
 # Lunar Lander - Deep Reinforcement Learning
-Solved OpenAI's [Continuous Lunar Lander environment](https://gym.openai.com/envs/LunarLanderContinuous-v2/) with an average reward of 200+ on the last 100 episodes at training episode 493; this is a [top 5 leaderboard performance](https://github.com/openai/gym/wiki/Leaderboard#lunarlandercontinuous-v2). 
+Solved OpenAI's [Continuous Lunar Lander environment](https://gym.openai.com/envs/LunarLanderContinuous-v2/) in less than 500 training episodes; this is a [top 5 leaderboard performance](https://github.com/openai/gym/wiki/Leaderboard#lunarlandercontinuous-v2). 
 
 ![GIF](https://github.com/SR14/LunarLander-DeepRL/blob/master/LunarLander.gif)
 
