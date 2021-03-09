@@ -18,7 +18,7 @@ Solved OpenAI's ["LunarLanderContinuous-v2"](https://gym.openai.com/envs/LunarLa
 5. The Jupyter Notebook used to compile all Python scripts can be found [here](https://github.com/SR14/LunarLander-DeepRL/blob/master/LunarLanderContinuous-v2.ipynb)
 
 
-6. Test episode's data can be found in the [data.txt](https://github.com/SR14/LunarLander-DeepRL/blob/master/data.txt) file, and the test episode's gif can be found in LunarLander.gif
+6. Test episode's data can be found in the [data.txt](https://github.com/SR14/LunarLander-DeepRL/blob/master/data.txt) file, and the test episode's gif can be found in [LunarLander.gif](https://github.com/SR14/LunarLander-DeepRL/blob/master/LunarLander.gif)
 
 Looking for feedback on how the model could be improved! (:
 
